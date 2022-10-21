@@ -1,0 +1,1 @@
+# AWS Native CI/CD Pipeline Project Architecture (Java Web Application)
